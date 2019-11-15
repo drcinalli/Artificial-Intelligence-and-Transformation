@@ -3,7 +3,7 @@
 <img src="./img/logo fundo verde curto.png" width="200" height="400" align="right"/>
 -->
 
-<img src="./img/logoconvexverde.png" width="200" height="400" align="right"/>
+<img src="./img/logoconvexverde.png"  align="right"/>
 
 # Artificial Intelligence and Digital Transformation
 
