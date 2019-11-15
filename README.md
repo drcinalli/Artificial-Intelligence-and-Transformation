@@ -6,7 +6,10 @@
 <!--
 <img src="./img/logoconvexbrancomini.png"  align="right"/>
 -->
-<img src="./img/logo fundo verde curto.png" width="200" height="400" align="right"/>
+
+<img src="./img/logoconvexbrancomini.png"  align="right"/>
+
+<img src="./img/logoconvexbrancomini2.png" align="right"/>
 
 
 # Artificial Intelligence and Digital Transformation
