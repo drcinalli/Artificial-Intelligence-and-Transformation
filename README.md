@@ -7,8 +7,6 @@
 
 # Artificial Intelligence and Digital Transformation
 
-
----
 <img src="./img/logoboxverde.png" align="right"/>
 
 
