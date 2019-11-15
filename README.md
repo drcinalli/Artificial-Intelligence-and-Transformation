@@ -6,6 +6,9 @@
 <!--
 <img src="./img/logoconvexbrancomini.png"  align="right"/>
 -->
+
+<img src="./img/logoconvexbrancomini.png"  align="right"/>
+
 <img src="./img/logoconvexbrancomini2.png" align="right"/>
 
 
