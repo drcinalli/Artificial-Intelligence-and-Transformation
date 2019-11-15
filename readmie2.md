@@ -27,14 +27,24 @@ To be written ...
 
 ## Notes:
 
+* Run the notebook online at [nbviewer](https://nbviewer.jupyter.org/)
+* `nbviewer` allows you to switch the notebooks "slides" mode.
 * Coded in Python 3.x;
 * Using [Anaconda](https://www.anaconda.com/) is recommended.
-* `nbviewer` allows you to switch the notebooks "slides" mode.
 
 <br/><br/> 
 
-![Click to view as slides](https://raw.githubusercontent.com/lmarti/jupyter_custom/master/imgs/view-as-slides.png)
+```
+sdsdskndsmnmn sjnbdjsndsj 
+```
 
+
+
+```
+![Click to view as slides](https://raw.githubusercontent.com/lmarti/jupyter_custom/master/imgs/view-as-slides.png)
+```
+
+<br/><br/> 
 
 ## Third-party images and materials usage note
 
