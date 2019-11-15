@@ -31,6 +31,8 @@ To be written ...
 * Using [Anaconda](https://www.anaconda.com/) is recommended.
 * `nbviewer` allows you to switch the notebooks "slides" mode.
 
+<br/><br/> 
+
 ![Click to view as slides](https://raw.githubusercontent.com/lmarti/jupyter_custom/master/imgs/view-as-slides.png)
 
 
