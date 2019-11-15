@@ -9,9 +9,6 @@
 
 <img src="./img/logoconvexbrancomini.png"  align="right"/>
 
-<img src="./img/logoconvexbrancomini2.png" align="right"/>
-
-
 # Artificial Intelligence and Digital Transformation
 
 <img src="./img/logoboxverde.png" align="right"/>
