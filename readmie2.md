@@ -12,7 +12,7 @@
 __by [Daniel Cinalli](http://www.cinalli.com.br)__ - DSC Artificial Intelligence
 
 
-
+<br/><br/> 
 
 A repository of [Jupyter](https://www.jupyter.org)/[IPython](https://www.ipython.org) notebooks with the slides, code examples and didactic material for lectures.
 
