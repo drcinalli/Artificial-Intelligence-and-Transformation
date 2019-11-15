@@ -9,7 +9,7 @@
 
 <img src="./img/logoboxverde.png" align="right"/>
 
-__by [Daniel Cinalli](http://www.cinalli.com.br)__ - DSC Artificial Intelligence
+__by [Daniel Cinalli](http://www.cinalli.com.br)__ - DSc Artificial Intelligence
 
 
 <br/><br/> 
@@ -20,6 +20,7 @@ A repository of [Jupyter](https://www.jupyter.org)/[IPython](https://www.ipython
 ![nbviwer](https://img.shields.io/badge/view%20in-nbviewer-orange.svg)
 ![rating](https://img.shields.io/badge/cool-★★★★★-blue)
 
+<br/><br/> 
 
 ## Description:
 Artificial Intelligence research applied to Digital Transformation of Cities, Government, Business and Life
