@@ -14,7 +14,7 @@ __by [Daniel Cinalli](http://www.cinalli.com.br)__ - DSc Artificial Intelligence
 
 <br/><br/> 
 
-A repository of [Jupyter](https://www.jupyter.org)/[IPython](https://www.ipython.org) notebooks with the slides, code examples and didactic material for lectures.
+A repository of [JupyterLab](https://www.jupyter.org)/[IPython](https://www.ipython.org) notebooks with the slides, code examples and didactic material for lectures.
 
 ![Python 3.x](https://img.shields.io/badge/python-3.x-green.svg)
 ![nbviwer](https://img.shields.io/badge/view%20in-nbviewer-orange.svg)
@@ -23,14 +23,16 @@ A repository of [Jupyter](https://www.jupyter.org)/[IPython](https://www.ipython
 <br/><br/> 
 
 ## Description:
-Artificial Intelligence research applied to Digital Transformation of Cities, Government, Business and Life
-
+To be written ...
 
 ## Notes:
 
 * Coded in Python 3.x;
-* See [`requirements.txt`](https://github.com/lmarti/machine-learning/blob/master/requirements.txt) for a full list of requirements.
-* Using [Anaconda](https://www.continuum.io/downloads) is recommended.
+* Using [Anaconda](https://www.anaconda.com/) is recommended.
+* `nbviewer` allows you to switch the notebooks "slides" mode.
+
+![Click to view as slides](https://raw.githubusercontent.com/lmarti/jupyter_custom/master/imgs/view-as-slides.png)
+
 
 ## Third-party images and materials usage note
 
