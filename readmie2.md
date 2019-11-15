@@ -27,12 +27,10 @@ To be written ...
 <br/><br/> 
 ## Notes:
 
-* Run the notebook online at [nbviewer](https://nbviewer.jupyter.org/)
-* `nbviewer` allows you to switch the notebooks "slides" mode
 * Coded in Python 3.x
 * Using [Anaconda](https://www.anaconda.com/) is recommended
-
-<br/><br/> 
+* Run the notebook online at [nbviewer](https://nbviewer.jupyter.org/)
+* `nbviewer` allows you to switch the notebooks "slides" mode
 
 <kbd>
 <img src="img/nbviwer-slides.png" />
