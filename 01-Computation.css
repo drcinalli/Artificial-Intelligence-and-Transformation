@@ -1,0 +1,25 @@
+/* when setting overlay,
+ * (see metadata in notebook)
+ *
+ * it's your responsability to put all the pieces where you want
+ * even in the middle if that was what you wanted
+ *
+ */
+
+
+div.myheader {
+    background: url(./img/header.png);
+    background-repeat: repeat-x;
+    background-position: right top;
+    height: 40px;
+}
+
+div.myfooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #7ee2c4;
+    color: white;
+    text-align: center;
+}
