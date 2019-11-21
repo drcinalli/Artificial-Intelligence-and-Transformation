@@ -18,7 +18,8 @@ A repository of [JupyterLab](https://www.jupyter.org)/[IPython](https://www.ipyt
 
 ![Python 3.x](https://img.shields.io/badge/python-3.x-green.svg)
 ![nbviwer](https://img.shields.io/badge/view%20in-nbviewer-orange.svg)
-![rating](https://img.shields.io/badge/cool-★★★★★-blue)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drcinalli/Artificial-Intelligence-and-Transformation/master)
+![rating](https://img.shields.io/badge/cool-★★★★★-yellow)
 
 <br/><br/> 
 ## Description:
@@ -29,8 +30,8 @@ To be written ...
 
 * Coded in Python 3.x
 * Using [Anaconda](https://www.anaconda.com/) is recommended
-* Run the notebook online at [nbviewer](https://nbviewer.jupyter.org/)
-* `nbviewer` allows you to switch the notebooks "slides" mode
+* Run the notebook `online` at [binder](https://mybinder.org/v2/gh/drcinalli/Artificial-Intelligence-and-Transformation/master) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drcinalli/Artificial-Intelligence-and-Transformation/master)
+* [nbviewer](https://nbviewer.jupyter.org/) allows you to switch the notebooks "slides" mode
 
 <kbd>
 <img src="img/nbviwer-slides.png" />
