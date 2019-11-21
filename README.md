@@ -27,6 +27,9 @@ To be written ...
 
 
 - [Installation](#installation)
+- [BBB](#installation)
+- [CCCC](#ccc)
+- [DDDD](#yy-hio)
     - [TER](#typo3-extension-repository)
     - [Composer](#composer)
 - [TYPO3 setup](#typo3-setup)
@@ -39,6 +42,11 @@ To be written ...
 - [License](#license)
 - [Links](#links)
 
+
+### TYPO3 extension repository
+
+If you want to install Aimeos in
+
 ## Installation
 
 This document is for the latest Aimeos TYPO3 **18.10 release and later**.
@@ -46,9 +54,15 @@ This document is for the latest Aimeos TYPO3 **18.10 release and later**.
 - Stable release: 19.7 (TYPO3 7/8/9 LTS)
 - LTS release: 18.10 (TYPO3 7/8/9 LTS)
 
-### TYPO3 extension repository
 
-If you want to install Aimeos in
+## CCc
+
+Th
+
+## YY hio
+
+Th
+
 
 <br/><br/> 
 ## Notes:
