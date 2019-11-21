@@ -26,44 +26,6 @@ A repository of [JupyterLab](https://www.jupyter.org)/[IPython](https://www.ipyt
 To be written ...
 
 
-- [Installation](#installation)
-- [BBB](#installation)
-- [CCCC](#ccc)
-- [DDDD](#yy-hio)
-    - [TER](#typo3-extension-repository)
-    - [Composer](#composer)
-- [TYPO3 setup](#typo3-setup)
-    - [Extension](#extension)
-    - [Database](#database)
-- [Page setup](#page-setup)
-    - [Upload the page tree file](#upload-the-page-tree-file)
-    - [Go to the import view](#go-to-the-import-view)
-    - [Import the uploaded page tree file](#import-the-uploaded-page-tree-file)
-- [License](#license)
-- [Links](#links)
-
-
-### TYPO3 extension repository
-
-If you want to install Aimeos in
-
-## Installation
-
-This document is for the latest Aimeos TYPO3 **18.10 release and later**.
-
-- Stable release: 19.7 (TYPO3 7/8/9 LTS)
-- LTS release: 18.10 (TYPO3 7/8/9 LTS)
-
-
-## CCc
-
-Th
-
-## YY hio
-
-Th
-
-
 <br/><br/> 
 ## Notes:
 
