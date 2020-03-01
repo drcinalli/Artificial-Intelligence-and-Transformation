@@ -23,7 +23,7 @@ A repository of [JupyterLab](https://www.jupyter.org)/[IPython](https://www.ipyt
 
 <br/><br/> 
 ## Description:
-To be written ...
+An easy tour through diverse topics in Artificial Intelligence and Digital Transformation.
 
 
 <br/><br/> 
@@ -31,18 +31,17 @@ To be written ...
 
 * Coded in Python 3.x
 * Using [Anaconda](https://www.anaconda.com/) is recommended
-* Run the notebook `online` ==online== at [binder](https://mybinder.org/v2/gh/drcinalli/Artificial-Intelligence-and-Transformation/master) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drcinalli/Artificial-Intelligence-and-Transformation/master)
-* [nbviewer](https://nbviewer.jupyter.org/) allows you to switch the notebooks "slides" mode
+* Run the notebook `online` at [binder](https://mybinder.org/v2/gh/drcinalli/Artificial-Intelligence-and-Transformation/master) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drcinalli/Artificial-Intelligence-and-Transformation/master)
+<!-- * [nbviewer](https://nbviewer.jupyter.org/) allows you to switch the notebooks "slides" mode -->
 
-<kbd>
+<!-- <kbd>
 <img src="img/nbviwer-slides.png" />
-</kbd>
-
+</kbd> -->
 
 <br/><br/> 
 ## Acknowledgement
 
-I always would like to express a sincere gratitude to my advisors [Ana Cristina Bicharra](http://lattes.cnpq.br/4879977915136752) and [Luis Martí](https://www.lmarti.com) for the continuous support of my Ph.D study back in 2013-2017.
+I always would like to express a sincere gratitude to my advisors [Ana Cristina Bicharra Garcia](http://lattes.cnpq.br/4879977915136752) and [Luis Martí](https://www.lmarti.com) for the continuous support of my Ph.D study back in 2013-2017.
 
 I am extremely privileged to have got the inspiration for these notebooks from you, [Luis Martí](https://www.lmarti.com).
 
